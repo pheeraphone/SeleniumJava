@@ -5,4 +5,5 @@ Test results:
 
 Struture folder:
 src/test/java/pages -> common function for each page
+
 src/test/java/testCases -> test cases files
